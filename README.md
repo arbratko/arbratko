@@ -34,7 +34,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-99%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-99%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-94%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-96%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-90%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/React-89%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
 </p>
 
@@ -48,6 +49,11 @@
 ---
 
 ## 🚀 Ключевые проекты
+
+### 🔄 **Bratko SFTP Pro**
+**TypeScript + Node.js**  
+Мощный инструмент для безопасной и быстрой FTP, SFTP, SSH синхронизации локального проекта с удаленными серверами.  
+[![Marketplace](https://img.shields.io/badge/🛒_VS_Code_Marketplace-extension-purple?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=arbratko.bratko-sftp-pro) [![Open VSX](https://img.shields.io/badge/🛒_Open_VSX-extension-blue?style=flat-square)](https://open-vsx.org/extension/arbratko/bratko-sftp-pro)
 
 ### 📄 **Система документооборота**
 **React + Node.js + MongoDB**  
