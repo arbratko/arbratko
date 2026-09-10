@@ -41,6 +41,7 @@
 
 ### Tools
 <p align="left">
+  <img src="https://img.shields.io/badge/Linux-95%25-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Git-97%25-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Docker-yes-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/REST_API-expert-FF6F00?style=for-the-badge" alt="REST API">
@@ -49,6 +50,11 @@
 ---
 
 ## 🚀 Ключевые проекты
+
+### 🎛️ **Bitrovo: Bitrix Panel**
+**Linux + 1С-Битрикс**  
+Веб-панель для сервера с 1С-Битрикс и Битрикс24: сайты, PHP, базы, сервисы, диск, crontab и техподдержка — без терминального меню BitrixVM.  
+[![Site](https://img.shields.io/badge/🌐_Сайт-Bitrovo-blue?style=flat-square)](https://bitrovo.ru/solutions/bitrixpanel) [![Code](https://img.shields.io/badge/💻_Code-GitHub-blue?style=flat-square)](https://github.com/arbratko/bitrovo-bitrix-panel)
 
 ### 🔄 **Bratko SFTP Pro**
 **TypeScript + Node.js**  
