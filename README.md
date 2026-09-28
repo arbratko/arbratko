@@ -53,7 +53,7 @@
 
 ### 🎛️ **Bitrovo: Bitrix Panel**
 <a href="https://bitrovo.ru/solutions/bitrixpanel">
-  <img src="https://bitrovo.ru/images/cover_panel.jpg" alt="Bitrovo: Bitrix Panel" width="720">
+  <img src="https://bitrovo.ru/images/cover_panel.jpg" alt="Bitrovo: Bitrix Panel" width="420">
 </a>
 
 **Linux + 1С-Битрикс**  
@@ -62,7 +62,7 @@
 
 ### 🔄 **Bratko SFTP Pro**
 <a href="https://marketplace.visualstudio.com/items?itemName=arbratko.bratko-sftp-pro">
-  <img src="https://arbratko.ru/images/portfolio/bratko-sftp-pro.jpg" alt="Bratko SFTP Pro" width="720">
+  <img src="https://arbratko.ru/images/portfolio/bratko-sftp-pro.jpg" alt="Bratko SFTP Pro" width="420">
 </a>
 
 **TypeScript + Node.js**  
@@ -71,7 +71,7 @@
 
 ### 📄 **Система документооборота**
 <a href="https://docflow.fuzehub.ru/">
-  <img src="https://arbratko.ru/images/portfolio/bratko-docflow.jpg" alt="DocFlow — документооборот" width="720">
+  <img src="https://arbratko.ru/images/portfolio/bratko-docflow.jpg" alt="DocFlow — документооборот" width="420">
 </a>
 
 **React + Node.js + MongoDB**  
@@ -80,7 +80,7 @@
 
 ### 🔌 **Модуль интеграции с Точка Банк**
 <a href="https://marketplace.1c-bitrix.ru/solutions/bratko.tochkabank/#tab-about-link">
-  <img src="https://arbratko.ru/images/portfolio/bratko-tochkabank.jpg" alt="Точка Банк — оплата по СБП" width="720">
+  <img src="https://arbratko.ru/images/portfolio/bratko-tochkabank.jpg" alt="Точка Банк — оплата по СБП" width="420">
 </a>
 
 **1С-Битрикс + API**  
@@ -94,7 +94,7 @@
 
 ### 🏦 **Ипотечный калькулятор**
 <a href="https://calc.fuzehub.ru/">
-  <img src="https://arbratko.ru/images/portfolio/bratko-calculator.jpg" alt="Ипотечный калькулятор" width="720">
+  <img src="https://arbratko.ru/images/portfolio/bratko-calculator.jpg" alt="Ипотечный калькулятор" width="420">
 </a>
 
 **1С-Битрикс + JavaScript**  
@@ -103,7 +103,7 @@
 
 ### 📊 **Logger Pro**
 <a href="https://marketplace.1c-bitrix.ru/solutions/bratko.adminlogger/#tab-about-link">
-  <img src="https://arbratko.ru/images/portfolio/bratko-adminlogger.jpg" alt="Logger Pro" width="720">
+  <img src="https://arbratko.ru/images/portfolio/bratko-adminlogger.jpg" alt="Logger Pro" width="420">
 </a>
 
 **1С-Битрикс**  
