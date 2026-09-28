@@ -53,7 +53,7 @@
 
 ### 🎛️ **Bitrovo: Bitrix Panel**
 <a href="https://bitrovo.ru/solutions/bitrixpanel">
-  <img src="https://bitrovo.ru/images/cover_panel.jpg" alt="Bitrovo: Bitrix Panel" width="420">
+  <img src="https://bitrovo.ru/images/cover_panel.jpg" alt="Bitrovo: Bitrix Panel" width="400">
 </a>
 
 **Linux + 1С-Битрикс**  
@@ -62,7 +62,7 @@
 
 ### 🔄 **Bratko SFTP Pro**
 <a href="https://marketplace.visualstudio.com/items?itemName=arbratko.bratko-sftp-pro">
-  <img src="https://arbratko.ru/images/portfolio/bratko-sftp-pro.jpg" alt="Bratko SFTP Pro" width="420">
+  <img src="https://arbratko.ru/images/portfolio/bratko-sftp-pro.jpg" alt="Bratko SFTP Pro" width="400">
 </a>
 
 **TypeScript + Node.js**  
@@ -71,7 +71,7 @@
 
 ### 📄 **Система документооборота**
 <a href="https://docflow.fuzehub.ru/">
-  <img src="https://arbratko.ru/images/portfolio/bratko-docflow.jpg" alt="DocFlow — документооборот" width="420">
+  <img src="https://arbratko.ru/images/portfolio/bratko-docflow.jpg" alt="DocFlow — документооборот" width="400">
 </a>
 
 **React + Node.js + MongoDB**  
@@ -80,7 +80,7 @@
 
 ### 🔌 **Модуль интеграции с Точка Банк**
 <a href="https://marketplace.1c-bitrix.ru/solutions/bratko.tochkabank/#tab-about-link">
-  <img src="https://arbratko.ru/images/portfolio/bratko-tochkabank.jpg" alt="Точка Банк — оплата по СБП" width="420">
+  <img src="https://arbratko.ru/images/portfolio/bratko-tochkabank.jpg" alt="Точка Банк — оплата по СБП" width="400">
 </a>
 
 **1С-Битрикс + API**  
@@ -94,7 +94,7 @@
 
 ### 🏦 **Ипотечный калькулятор**
 <a href="https://calc.fuzehub.ru/">
-  <img src="https://arbratko.ru/images/portfolio/bratko-calculator.jpg" alt="Ипотечный калькулятор" width="420">
+  <img src="https://arbratko.ru/images/portfolio/bratko-calculator.jpg" alt="Ипотечный калькулятор" width="400">
 </a>
 
 **1С-Битрикс + JavaScript**  
@@ -103,7 +103,7 @@
 
 ### 📊 **Logger Pro**
 <a href="https://marketplace.1c-bitrix.ru/solutions/bratko.adminlogger/#tab-about-link">
-  <img src="https://arbratko.ru/images/portfolio/bratko-adminlogger.jpg" alt="Logger Pro" width="420">
+  <img src="https://arbratko.ru/images/portfolio/bratko-adminlogger.jpg" alt="Logger Pro" width="400">
 </a>
 
 **1С-Битрикс**  
@@ -114,109 +114,109 @@
 
 ## 🖼 Витрина интерфейсов
 
-Макеты кабинетов, CRM, магазинов и отраслевых систем. Полная галерея — на [arbratko.ru/portfolio](https://arbratko.ru/portfolio/).
+Макеты кабинетов, CRM, магазинов и отраслевых систем. Полная галерея — на [arbratko.ru/portfolio](https://arbratko.ru/portfolio/#ui-gallery).
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://arbratko.ru/portfolio/">
-        <img src="https://arbratko.ru/images/portfolio/new/01-severtech-cabinet.png" alt="СеверТех — кабинет клиента" width="100%">
-      </a>
-      <br>
-      <b>СеверТех</b> — кабинет клиента
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://arbratko.ru/portfolio/">
-        <img src="https://arbratko.ru/images/portfolio/new/02-volgatrade-crm.png" alt="ВолгаТрейд — CRM" width="100%">
-      </a>
-      <br>
-      <b>ВолгаТрейд</b> — CRM
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://arbratko.ru/portfolio/">
-        <img src="https://arbratko.ru/images/portfolio/new/03-arhivpro-docs.png" alt="АрхивПро — документы" width="100%">
-      </a>
-      <br>
-      <b>АрхивПро</b> — документы
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://arbratko.ru/portfolio/">
+      <a href="https://arbratko.ru/portfolio/#ui-gallery">
         <img src="https://arbratko.ru/images/portfolio/new/04-lavka-shop.png" alt="Лавка — интернет-магазин" width="100%">
       </a>
       <br>
       <b>Лавка</b> — интернет-магазин
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <a href="https://arbratko.ru/portfolio/">
+      <a href="https://arbratko.ru/portfolio/#ui-gallery">
         <img src="https://arbratko.ru/images/portfolio/new/06-ticketpro-support.png" alt="ТикетПро — поддержка" width="100%">
       </a>
       <br>
       <b>ТикетПро</b> — поддержка
     </td>
-    <td width="50%" valign="top">
-      <a href="https://arbratko.ru/portfolio/">
-        <img src="https://arbratko.ru/images/portfolio/new/07-uralsklad-stock.png" alt="УралСклад — остатки" width="100%">
-      </a>
-      <br>
-      <b>УралСклад</b> — остатки
-    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://arbratko.ru/portfolio/">
+      <a href="https://arbratko.ru/portfolio/#ui-gallery">
+        <img src="https://arbratko.ru/images/portfolio/new/08-verba-salon.png" alt="Верба — салон красоты" width="100%">
+      </a>
+      <br>
+      <b>Верба</b> — салон красоты
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://arbratko.ru/portfolio/#ui-gallery">
         <img src="https://arbratko.ru/images/portfolio/new/10-sibtrans-tracking.png" alt="СибТранс — трекинг" width="100%">
       </a>
       <br>
       <b>СибТранс</b> — трекинг
     </td>
-    <td width="50%" valign="top">
-      <a href="https://arbratko.ru/portfolio/">
-        <img src="https://arbratko.ru/images/portfolio/new/11-biznescifra-dashboard.png" alt="БизнесЦифра — дашборд" width="100%">
-      </a>
-      <br>
-      <b>БизнесЦифра</b> — дашборд
-    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://arbratko.ru/portfolio/">
+      <a href="https://arbratko.ru/portfolio/#ui-gallery">
         <img src="https://arbratko.ru/images/portfolio/new/13-komandasoft-tasks.png" alt="КомандаСофт — задачи" width="100%">
       </a>
       <br>
       <b>КомандаСофт</b> — задачи
     </td>
     <td width="50%" valign="top">
-      <a href="https://arbratko.ru/portfolio/">
-        <img src="https://arbratko.ru/images/portfolio/new/15-integrations.png" alt="ИнтеграМост — монитор интеграций" width="100%">
+      <a href="https://arbratko.ru/portfolio/#ui-gallery">
+        <img src="https://arbratko.ru/images/portfolio/new/18-kvartservice-rent.png" alt="КвартСервис — аренда" width="100%">
       </a>
       <br>
-      <b>ИнтеграМост</b> — интеграции
+      <b>КвартСервис</b> — аренда
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://arbratko.ru/portfolio/">
+      <a href="https://arbratko.ru/portfolio/#ui-gallery">
         <img src="https://arbratko.ru/images/portfolio/new/19-parus-clinic.png" alt="Медцентр Парус — клиника" width="100%">
       </a>
       <br>
       <b>Медцентр Парус</b> — клиника
     </td>
     <td width="50%" valign="top">
-      <a href="https://arbratko.ru/portfolio/">
-        <img src="https://arbratko.ru/images/portfolio/new/20-berezka-restaurant.png" alt="Ресторан Берёзка" width="100%">
+      <a href="https://arbratko.ru/portfolio/#ui-gallery">
+        <img src="https://arbratko.ru/images/portfolio/new/21-avtomaster-repair.png" alt="СТО АвтоМастер — ремонт" width="100%">
       </a>
       <br>
-      <b>Ресторан Берёзка</b> — ресторан
+      <b>СТО АвтоМастер</b> — ремонт
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://arbratko.ru/portfolio/#ui-gallery">
+        <img src="https://arbratko.ru/images/portfolio/new/26-tehnadzor-qc.png" alt="Технадзор Плюс — контроль качества" width="100%">
+      </a>
+      <br>
+      <b>Технадзор Плюс</b> — контроль качества
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://arbratko.ru/portfolio/#ui-gallery">
+        <img src="https://arbratko.ru/images/portfolio/new/31-catalog-filter.png" alt="Фильтр каталога" width="100%">
+      </a>
+      <br>
+      <b>Фильтр каталога</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://arbratko.ru/portfolio/#ui-gallery">
+        <img src="https://arbratko.ru/images/portfolio/new/32-cart-mockup1.png" alt="Корзина" width="100%">
+      </a>
+      <br>
+      <b>Корзина</b>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://arbratko.ru/portfolio/#ui-gallery">
+        <img src="https://arbratko.ru/images/portfolio/new/33-catalog-products-rich.png" alt="Каталог товаров" width="100%">
+      </a>
+      <br>
+      <b>Каталог товаров</b>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://arbratko.ru/portfolio/">
+  <a href="https://arbratko.ru/portfolio/#ui-gallery">
     <img src="https://img.shields.io/badge/📂_Смотреть_все_макеты_на_сайте-arbratko.ru-orange?style=for-the-badge" alt="Смотреть все макеты">
   </a>
 </p>
